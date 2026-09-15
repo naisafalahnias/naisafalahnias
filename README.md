@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<!-- NANTI ISI SESUAI STACK KAMU -->
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,figma" />
 
 </div>
 
