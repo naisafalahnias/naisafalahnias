@@ -76,11 +76,36 @@ the code:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=naisafalahnias&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+| 🌷 Learning | 💻 Status |
+|:---:|:---:|
+| Web Development | 🌱 Growing |
+| Laravel | 🐣 Learning |
+| JavaScript | ✨ Improving |
+| UI/UX & Figma | 🎨 Exploring |
+
+<br>
+
+> "slowly but surely, one bug at a time" 🐛💗
+
+</div>
+
+---
+
+## 💻 What I Like to Do
+
+<div align="center">
+
+🎨 **Design** → making things look pretty  
+<br>
+💻 **Code** → turning ideas into websites  
+<br>
+🐛 **Debug** → wondering why it doesn't work  
+<br>
+✨ **Learn** → trying again until it works  
 
 </div>
 
@@ -96,11 +121,23 @@ the code:
 
 ---
 
-## 📈 Contribution Activity
+## 🐾 Random Coding Facts
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naisafalahnias&theme=github-dark&hide_border=true" />
+```text
+╭────────────────────────────────────╮
+│                                    │
+│   🐈‍⬛ cat + laptop = productivity  │
+│                                    │
+│   💻 "it's just a small change"    │
+│             ↓                      │
+│       3 hours later...             │
+│                                    │
+│   🐛 found another bug             │
+│                                    │
+╰────────────────────────────────────╯
+```
 
 </div>
 
