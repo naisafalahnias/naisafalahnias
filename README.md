@@ -8,7 +8,7 @@
 
 ### nicelynn0 (paul only ;P)
 
-*in my bissmillah 'n wallahualam era* 😘
+*in my bissmillah 'n wallahualam era* 🦊
 
 <br>
 
