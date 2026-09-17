@@ -56,12 +56,7 @@
 
 ### 💌 Thanks for visiting!
 
-```text
-(づ｡◕‿‿◕｡)づ  💻  ✨  🐈‍⬛
-
-keep coding, keep learning, keep going!
-```
-
-⭐ Feel free to explore my repositories ⭐
+<img src="1088815647438946680.jpg" width="200"><br>
+byeee🙂‍↕️
 
 </div>
