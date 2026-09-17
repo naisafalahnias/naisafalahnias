@@ -2,15 +2,13 @@
 
 <img src="1088815647438946680.jpg" width="200">
 
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+nicelynn0+%F0%9F%91%8B;Welcome+to+my+little+corner+%F0%9F%90%88;Software+Engineering+Student+%F0%9F%92%BB;Still+learning%2C+still+building+%F0%9F%8C%B1" />
 
 <br>
 
-### 🐈‍⬛ nicelynn0
+### nicelynn0 (paul only ;P)
 
-*just a girl trying to make the code work* 💻✨
+*in my bissmillah 'n wallahualam era* 😘
 
 <br>
 
