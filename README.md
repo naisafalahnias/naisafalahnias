@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://id.pinterest.com/pin/1088815647438946680/" width="700">
+<img src="1088815647438946680.jpg" width="700">
 
 <br><br>
 
