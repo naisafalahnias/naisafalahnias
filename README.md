@@ -16,80 +16,11 @@
 
 ---
 
-## 🎀 About Me
-
-```text
-╭──────────────────────────────────────╮
-│                                      │
-│   👋 Hi! I'm nicelynn0               │
-│                                      │
-│   🎓 Software Engineering Student    │
-│   💻 Learning Web Development        │
-│   🌱 Currently improving my skills   │
-│   🐈‍⬛ Cat lover & casual coder       │
-│                                      │
-│   "gini yh *..."                     │
-│                                      │
-╰──────────────────────────────────────╯
-```
-
-- 💻 I enjoy learning about **web development**
-- 🌱 Currently improving my programming skills
-- 🎨 I like making things look nice and clean
-- 🐛 Debugging is basically part of my daily life
-- ☕ Code → error → fix → repeat
-
----
-
 ## 🛠️ My Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,figma" />
-
-<br><br>
-
-`HTML` • `CSS` • `JavaScript` • `PHP` • `Laravel`
-
-`MySQL` • `Git` • `GitHub` • `VS Code` • `Figma`
-
-</div>
-
----
-
-## 🐾 A Little Something About Me
-
-<div align="center">
-
-```text
- /\_/\\
-( o.o )
- > ^ <
-
-me: "this code should work"
-
-the code:
-"no."
-```
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-| 🌷 Learning | 💻 Status |
-|:---:|:---:|
-| Web Development | 🌱 Growing |
-| Laravel | 🐣 Learning |
-| JavaScript | ✨ Improving |
-| UI/UX & Figma | 🎨 Exploring |
-
-<br>
-
-> "slowly but surely, one bug at a time" 🐛💗
 
 </div>
 
@@ -120,40 +51,6 @@ the code:
 </div>
 
 ---
-
-## 🐾 Random Coding Facts
-
-<div align="center">
-
-```text
-╭────────────────────────────────────╮
-│                                    │
-│   🐈‍⬛ cat + laptop = productivity  │
-│                                    │
-│   💻 "it's just a small change"    │
-│             ↓                      │
-│       3 hours later...             │
-│                                    │
-│   🐛 found another bug             │
-│                                    │
-╰────────────────────────────────────╯
-```
-
-</div>
-
----
-
-## 🌐 Find Me Here
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-naisafalahnias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naisafalahnias)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💌 Thanks for visiting!
 
